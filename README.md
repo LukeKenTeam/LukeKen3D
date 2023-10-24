@@ -46,7 +46,9 @@ Note: Not all source ports may work with this file. For example, EDuke32 only re
 
 ## Contributing
 
-Contributions to Luke Ken are always welcome, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game.
+Contributions to Luke Ken are always welcome, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game. 
+
+Before you submit anything, please keep in mind that the work you contribute will be added to the project under the BSD License, until the maintainers decide to remove it. If you're okay with that and fine with receiving credit, you're good to go. If you have any questions, feel free to ask the maintainers or consult the license for more information.
 
 ### Contributing to Luke Ken Assets
 
