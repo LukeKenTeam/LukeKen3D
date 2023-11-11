@@ -1,0 +1,7 @@
+// Offsets
+x offset -67
+y offset 0
+
+// Art size
+w 128
+h 8

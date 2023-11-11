@@ -1,5 +1,5 @@
 # Luke Ken Planet Invasion 
-[![Discord Banner](doc/img/banner.png)](https://discord.gg/TSFYwTPqUk)
+[![Discord Banner](repo/img/banner.png)](https://discord.gg/TSFYwTPqUk)
 
 Luke Ken is a free, open-source retro-futuristic first-person shooter (FPS) game, developed as a data replacement for the Duke Nukem 3D engine. While it shares some similarities with Duke Nukem 3D, LK features its own unique story and characters, and is not intended to be a direct clone or emulation of the original game. This project is designed to be fully vanilla-compatible, meaning it can be played using the DOS port version of the Atomic Edition.
 
