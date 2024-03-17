@@ -56,7 +56,7 @@ Be sure to read our submission guidelines for [here](docs/GUIDELINES.md) to chec
 If you'd like to contribute to the project:
 
 1. **Join Discord:**
-   - Join our Discord server to discuss and showcase your contribution, preferably in the development channels, so we can ensure everything is in check before you proceed to the next steps. Going ahead and doing a pull request without asking first, may mix things up or compromise quality control, it's good to talk with us first. Once everything checks out by us, proceed to step 2. Also don't forget to grab a green check mark emoji role to gain access to development channels.
+   - Join our Discord server to discuss and showcase your contribution, preferably in the development channels, so we can ensure everything is in check before you proceed to the next steps. Going ahead and doing a pull request without asking first, may mix things up or compromise quality control, it's good to talk with us first. Once everything checks out by us, proceed to step 2. Also don't forget to grab a green check mark emoji role to gain access to development channels if you are contributing to the project.
 
 2. **Fork and make a pull request:**
    - Fork the project repository on GitHub by clicking the "Fork" button, only if you have to do this once if this is your first time.
