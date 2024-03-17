@@ -1,35 +1,35 @@
-# Luke Ken Planet Invasion 
-[![Discord Banner](repo/img/banner.png)](https://discord.gg/TSFYwTPqUk)
+# Luke Ken 3D Planet Invasion 
+[Discord Banner 2](https://discordapp.com/api/guilds/979538976459333662/widget.png?style=banner2)
 
-Luke Ken is a free, open-source retro-futuristic first-person shooter (FPS) game, developed as a data replacement for the Duke Nukem 3D engine. While it shares some similarities with Duke Nukem 3D, LK features its own unique story and characters, and is not intended to be a direct clone or emulation of the original game. This project is designed to be fully vanilla-compatible, meaning it can be played using the DOS port version of the Atomic Edition.
+Luke Ken 3D Planet Invasion is a free, open-source cosmic retro-futuristic first-person shooter (FPS) game, developed also as a data replacement for the Duke Nukem 3D engine. LK itself, is just raw data for the game engine, these assets are provided for use with compatible engines like EDuke32, JFDuke, and Rednukem or the original DOS version. While it shares some similarities with Duke Nukem 3D, LK features its own unique story, characters, concepts and ideas, and is not intended to be a direct clone or emulation of the original game. This project is designed to be fully vanilla-compatible, meaning it can be also played using the DOS port version of the Atomic Edition if so desired. 
+
+# Current status
+The project is currently in early alpha stage known as AlphaKen. There's no gameplay as of yet, just assets for now.
+Therefore, we have to manually create the binary file, it's a very time consuming process to do, until some script tools are made to build these game files. We appreciate your understanding as we work towards improving and expanding onwards with the project.
 
 # Story 
-
-Luke Ken Planet Invasion is an exhilarating retro futuristic sci-fi game where you step into the shoes of a futuristic Space Enforcer, a crucial member of the Galactic Task Force (G.T.F.). After successfully defeating an alien leader from another planet (a working story draft, by the way), you return to Earth only to face new challenges - confronting menacing insectoids, rinosauraus, formidable drone scanners, cyber turrets, eerie decayed slimer hive-like creatures, and more.
-
-As you arrive on back on earth, But the real shock comes when you uncover an impending invasion that poses a dire threat to humanity's existence. Along your journey, you will encounter intriguing open-source characters and, yes, some anime like babes too. Your mission is crystal clear - equip yourself with state-of-the-art futuristic weaponry and gear, ready to navigate through Twilight City and embark on thrilling adventures in the vastness of outer space. Your ultimate goal is to find and take out the alien leader once and for all and save humanity from its impending doom.
-
-The story is ever-evolving, and exciting updates await to keep you on the edge of your seat! Get ready for an action-packed experience in ZNukem's Luke Ken universe. 
+If you like to learn more about the story, click [Here](https://lukekenteam.github.io/story.html). Please beware it is subject to change over time. 
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Compatibility](#compatibility)
 - [Contributing](#contributing)
 - [License](#license)
 - [What"Free"Means](#what-free-means)
+- [Credit](#credit)
 - [Community](#community)
 
 ## Getting Started
 
 ### Prerequisites
 
-Luke Ken consists of game data only, you'll need to download a compatible engine separately. There are several options to choose from, including EDuke32, JFDuke, and Rednukem.
+Luke Ken 3D consists of game data only, you'll need to download a compatible engine separately. There are several options to choose from, including RetroDuke, xDuke, EDuke32, JFDuke, and Rednukem.
 
-Please note that not all source ports may work seamlessly with this file. For instance, EDuke32 only reads hashes on their port, which may require you to create a `.groupinfo` text file to define all the hashes for it to read. We hope that this issue can be resolved in the future.
-
-Currently, there are no tools available for easy compilation of assets into a standalone game. Therefore, we have to manually create the binary file. These assets are provided for use with compatible engines like EDuke32, JFDuke, and Rednukem or vanilla engine. We appreciate your understanding as we work towards improving the project and expanding its capabilities.
+Please note that not all source ports may work seamlessly with this GRP file (Game Resource Package). For example, EDuke32 based source ports only read hashes, which may require to create a `.groupinfo` text file to define all the hashes for it to read. Hopefully, down the line, this issue can be resolved in the future.
 
 ## Installation
+First download the GRP (Game Resource Package) file [Here](https://github.com/LukeKenTeam/LukeKen3D/releases)
 
 For EDuke32:
 1. Extract the lukeken.grp and LK.grpinfo to your eduke32 source port folder.
@@ -42,57 +42,65 @@ Legacy way:
 3. Run the executable file of your chosen source port.
 4. Have fun!
 
-Note: Not all source ports may work with this file. For example, EDuke32 only reads hashes on their port which may require creating a `.groupinfo` text file to define all the hashes for it to read. Hopefully, down the line, this issue can be remedied.
+# Compatibility
+
+It does may vary on somethings like mods, Mostly maps should work just fine. We will try to be faithful for compatibility as possible thats our goal. 
+If you like to check on what was previously tested click [Here](docs/Compatibility.md) find out more info. 
 
 ## Contributing
 
-Contributions to Luke Ken are always welcome, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game. 
+New contributors are always welcome for Luke Ken 3D project, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game. 
+Be sure to read our submission guidelines for [here](docs/GUIDELINES.md) to check out more information.
 
-Before you submit anything, please keep in mind that the work you contribute will be added to the project under the BSD License, until the maintainers decide to remove it. If you're okay with that and fine with receiving credit, you're good to go. If you have any questions, feel free to ask the maintainers or consult the license for more information.
+**Submiting work**
+If you'd like to contribute to the project:
 
-### Contributing to Luke Ken Assets
+1. **Join Discord:**
+   - Join our Discord server to discuss and showcase your contribution, preferably in the development channels, so we can ensure everything is in check before you proceed to the next steps. Going ahead and doing a pull request without asking first, may mix things up or compromise quality control, it's good to talk with us first. Once everything checks out by us, proceed to step 2.
 
-Intellectual property we know people hate legalese, but this is important. This applies to
-**everything** which is submitted.
+2. **Fork and make a pull request:**
+   - Fork the project repository on GitHub by clicking the "Fork" button, only if you have to do this once if this is your first time.
+   - Open Up the GitHub desktop and clone the project to your computer.
+   - Now click repository and open show in file explorer.
+   - All the files and folders should be displayed, you need to be in the assets folder to add the stuff you have made such as art and sounds, music in those folders. 
+   
+3. **Make Changes:**
+   - Implement and add the desired changes in your forked repository. Remember to provide your name and email in the 'credits' folder, specifying the assets you worked on (e.g., tile0000.txt) with your credentials inside the doc.
+   
+   - Choose your changes, add comment and submit to origin.
 
-Here are some general guidelines for contributing assets to the Luke Ken project:
+4. **Submit Pull Request:**
+   - Go to branch tab.
+   - Click on Create Pull Request.
+   - It should open up a webpage and allow you to submit a Pull Request.
 
-1. All assets must be original work or released under a compatible open-source license such as CC0. Assets that are copied or derived from copyrighted material are not allowed.
-2. When creating new assets, try to match the style of game assets as closely as possible. Do not try to emulate resources exactly. Where possible, put effort to make them look visibly different from Duke Nukem 3D.
-3. Art assets should be in the PNG format with transparency where appropriate. Sound assets should be in the WAV format 22050mz in mono. Other formats may be accepted, but they should be discussed with the project maintainers first.
-4. Before submitting new assets, make sure that they are properly named and organized. Use clear and concise names that accurately describe the contents of each asset. Make sure that they are organized in a logical folder structure.
-5. Make sure that any new assets do not break compatibility with the vanilla game. This means that they should have the same dimensions, color palettes, and other technical specifications as the original assets.
-6. When submitting new assets, provide a clear description of what they are and how they are intended to be used. Also include any relevant license information and attribution for any assets that were not created by you.
-7. If you are making a large contribution or adding a new feature to the game, it is recommended that you discuss your plans with the project maintainers first to make sure that they are in line with the goals of the project.
-8. All asset contributions will be reviewed by the project maintainers before they are merged into the main branch. If there are any issues or concerns with the contributions, the maintainers will work with the contributor to resolve them.
+Please allow us some time to review your contribution. If, for any reason, your work is rejected, please understand that it might not be finished, or there could be an existing issue within your work. If everything is in order, us maintainers will proceed through with the submission. Please note: Avoid making large submissions that might be unfeasible for our project without consulting us first. Such submissions might be rejected. 
 
-By following these guidelines, you can help ensure that your asset contributions are of high quality and are compatible with the goals of the Luke Ken project.
-
-**Reporting Non-Compliant Assets**
-
-We are dedicated to maintaining a fully open-source environment for our project, Luke Ken. As part of our commitment to using free and open assets, the majority of the assets we employ are sourced from the public domain or under the Creative Commons CC0 license. Additionally, we create many assets from scratch to ensure their compliance with open-source standards.
-
-However, if you come across any assets within our project that do not fully adhere to the open-source guidelines, or if you suspect there might be an oversight in licensing, we encourage you to report them to us. Your assistance in identifying any non-compliant assets is invaluable in upholding the principles of open-source development.
-
-Please inform us by reporting the issue on our GitHub tracker, which will enable us to promptly address and rectify any potential licensing discrepancies. Your proactive involvement plays a crucial role in maintaining the integrity of our project and sustaining its open nature.
-
-Thank you for your cooperation and support in making Luke Ken a truly open-source endeavor.
-
-**Crediting information**
-
-Luke Ken Project is made up of submissions from many people all over the globe. All of them, and you, deserve credit! Please do not forget to provide your name and email/contact info when submitting resources.
+Note: If you are using terminal or command line to submit just beaware how you use it. If you have storng understand how it works, feel free to submit work in that method as well.
 
 ## License
+All assets within the Luke Ken 3D project are covered by a open source license, a licensing model akin to what's used by other popular open-source projects like [Freedoom](https://freedoom.github.io/) and [LibreQuake ](https://librequake.queer.sh/). This license generously permits commercial use of the assets and credits to the people that help with project.
 
-All assets within the Luke Ken project are covered by the modified BSD license, a licensing model akin to what's used by other renowned open-source projects like Freedoom and LibreQuake. This license generously permits commercial use of the assets.
+Assets and Project:
+- The game assets and project are licensed under the [BSD 3-Clause License](COPYING).
 
-However, it's important to keep in mind that while Luke Ken assets enjoy the modified BSD license, other data bundled in this project, like the build engine data, might have different licensing constraints. For instance, the build engine data cannot be sold for commercial purposes without explicit consent from its creator, Ken Silverman. We kindly encourage you to thoroughly review the individual licenses of any extra data incorporated into this project before using or distributing it. Rest assured, there shouldn't be any complications as long as you're distributing it for free.
+Game Data Dependencies:
+- Duke Nukem 3D Test Data is licensed under the [GNU General Public License (GPL) version 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
+- Build Engine Formats and .DAT [Build Engine License](http://advsys.net/ken/buildsrc/).
+
+Please review the respective licenses for more details.
+
+However, it's important to keep in mind that while Luke Ken 3D assets and project under a open source license, other data bundled in this project, might have different licensing constraints. For instance, the build engine data cannot be sold for commercial purposes without explicit consent from its creator, Ken Silverman. Which makes hard for us have added to GNU/Linux distributions. We kindly encourage you to thoroughly review the individual licenses of any extra data incorporated into this project before using or distributing it. Rest assured, there shouldn't be any complications as long as you're distributing it for free without any cost. The game will remain on the Luke Ken Team webpage for the time being until something will change. Hopefully, Ken Silverman can reason and understand about what we're doing when it comes to open source content. If there seems to be a misunderstanding with Build Engine related stuff or the license not necessary for that. Do please let us know. Thanks! 
 
 ## What "Free" Means
 
-When we speak of free content or software, we refer to the movement in which your freedoms to use, copy, modify, and study a work is not infringed. For example, you may freely use Luke Ken Assets for any purpose you see fit, you may redistribute it to anyone without needing to ask for permission, you may modify it (provided you keep the license intact, see COPYING), and you may study it—​for example, to see how a "GRP" is built. To facilitate this, you can get the full source code for Duke Nukem 3D to understand how the game works.
+When we speak of free content or software, we refer to the movement in which your freedoms to use, copy, modify, and study a work is not infringed. For example, you may freely use Luke Ken 3D Assets for any purpose you see fit, you may redistribute it to anyone without needing to ask for permission, you may modify it (provided that you do keep the license intact, see COPYING), and you may study it—​for example, to see how a "GRP (Game Resource Package)" and how the game is built. To facilitate this, you can get the full source code for Duke Nukem 3D to understand how the game works.
 
-You may read more about free software at the GNU and Free Software Foundation websites.
+You may read more about free software at the [GNU](http://www.gnu.org/) and [Free Software Foundation](http://www.fsf.org) websites.
+
+## Credit
+
+Luke Ken 3D Project is made up of submissions from many people all over the globe. All of them, and you, deserve credit! Please do not forget to provide your name and email/contact info when submitting resources.
 
 ## Community
 
