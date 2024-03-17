@@ -45,7 +45,7 @@ Legacy way:
 # Compatibility
 
 It does may vary on somethings like mods, Mostly maps should work just fine. We will try to be faithful for compatibility as possible thats our goal. 
-If you like to check on what was previously tested click [Here](docs/Compatibility.md) find out more info. 
+If you like to check on what source port was previously tested click [Here](docs/Compatibility.md) find out more info. 
 
 ## Contributing
 
