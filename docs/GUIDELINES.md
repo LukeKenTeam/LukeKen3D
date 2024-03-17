@@ -15,8 +15,7 @@ A. Art assets should be in the PNG format with transparency where appropriate. Y
 B. Sound assets should be in the .flac high bitrate you can set for gold masters, at minimum for lecgey wav/voc 8-bit 2205hz. 
 C. Music should be in .mid also the music will not play if the .MID file excedes 72000 bytes.
 
-Other formats may be accepted, but they should be discussed with the project maintainers first.
-4. Before submitting new assets, make sure that they are properly named and organized. Use clear and concise names that accurately describe the contents of each asset. Make sure that they are organized in a logical folder structure.
+4. Other formats may be accepted, but they should be discussed with the project maintainers first. Before submitting new assets, make sure that they are properly named and organized. Use clear and concise names that accurately describe the contents of each asset. Make sure that they are organized in a logical folder structure.
 5. Make sure that any new assets do not break compatibility with the vanilla game. This means that they should have the same dimensions, color palettes, and other technical specifications as the original assets. Resizing GFX way to large with would brake alignment, fill up the screen and big as they appear, or make the sprite or art look too out place then norrmal size. Keep this in mind while working on them. Just make it friendly for 486 computers. lol!
 6. When submitting new assets, provide a clear description of what they are and how they are intended to be for. 
 7. If you are making a large contribution or adding a something new that alter the flow of the project, it is recommended that you discuss your plans with the project maintainers and project owner first to make sure that they are in line with the goals of the project. 
