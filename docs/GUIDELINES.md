@@ -22,8 +22,6 @@ C. Music should be in .mid also the music will not play if the .MID file excedes
 8. All asset contributions will be reviewed by the project maintainers before they are merged into the main branch. If there are any issues or concerns with the contributions, the maintainers will work with the contributor to resolve them.
 9. When making levels for the project make them basic and interesting as possbile with some secrets help the player progress on. When comes to secret levels you may use open source level layout from other games such as freedoom for example as easter egg or just normmal level out of heart. Keep in the vanilla limits of the game for compatibility so don't brake under DOS. Make sure they play well in singleplayer and mulitplayer. Keep the skill level less extreme more fair to the player best as possbile. 
 
-By following these guidelines, you can help ensure that your asset contributions are of high quality and are compatible with the goals of the Luke Ken 3D project.
-
 **Reporting Non-Compliant Assets**
 
 We are dedicated to maintaining a fully open-source environment for our project, Luke Ken. As part of our commitment to using free and open assets, the majority of the assets we employ are sourced from the public domain or under the Creative Commons CC0 license. Additionally, we create many assets from scratch to ensure their compliance with open-source standards.
@@ -32,5 +30,5 @@ However, if you come across any assets within our project that do not fully adhe
 
 Please inform us by reporting this as issue request on our GitHub tracker, which will enable us to promptly address and rectify any potential licensing discrepancies. Your proactive involvement plays a crucial role in maintaining the integrity of our project and sustaining its open nature.
 
-Thank you for your cooperation and support in making Luke Ken 3D a truly open-source endeavor.
+By following these guidelines of the Luke Ken 3D project, This would help stay close to it's goals. Thank you for your cooperation and support in making Luke Ken 3D a truly open-source endeavor.
 
