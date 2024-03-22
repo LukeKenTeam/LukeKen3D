@@ -12,7 +12,7 @@ Here are some general guidelines for contributing assets to the Luke Ken 3D proj
 
 3. When designing content keep this info in mind 
 A. Art assets should be in the PNG format with transparency where appropriate. You will need baffed to test them.
-B. Sound assets should be in the .flac high bitrate you can set for gold masters, at minimum for legacy wav/voc 8-bit 2205hz. 
+B. Sound assets should be in the .flac high bitrate you can set for gold masters, at minimum for legacy wav/voc 8-bit 22050hz. 
 C. Music should be in .mid also the music will not play if the .MID file excedes 72000 bytes.
 
 4. Other formats may be accepted, but they should be discussed with the project maintainers first. Before submitting new assets, make sure that they are properly named and organized. Use clear and concise names that accurately describe the contents of each asset. Make sure that they are organized in a logical folder structure.
