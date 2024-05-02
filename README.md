@@ -3,11 +3,11 @@
 
 Luke Ken 3D Planet Invasion is a free, open-source cosmic retro-futuristic first-person shooter (FPS) game, developed also as a data replacement for the Duke Nukem 3D engine. LK itself, is just raw data for the game engine, these assets are provided for use with compatible engines like EDuke32, JFDuke, and Rednukem or the original DOS version. While it shares some similarities with Duke Nukem 3D, LK features its own unique story, characters, concepts and ideas, and is not intended to be a direct clone or emulation of the original game. This project is designed to be fully vanilla-compatible, meaning it can be also played using the DOS port version of the Atomic Edition if so desired. 
 
-# Current status
+## Current status
 The project is currently in early alpha stage known as AlphaKen. There's no gameplay as of yet, just assets for now.
 Therefore, we have to manually create the binary file, it's a very time consuming process to do, until some script tools are made to build these game files. We appreciate your understanding as we work towards improving and expanding onwards with the project.
 
-# Story 
+## Story 
 If you like to learn more about the story, click [Here](https://lukekenteam.github.io/story.html). Please beware it is subject to change over time. 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ Legacy way:
 3. Run the executable file of your chosen source port.
 4. Have fun!
 
-# Compatibility
+## Compatibility
 
 It does may vary on somethings like mods, Mostly maps should work just fine. We will try to be faithful for compatibility as possible thats our goal. 
 If you like to check on what source port was previously tested click [Here](docs/Compatibility.md) find out more info. 
