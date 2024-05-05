@@ -1,0 +1,3 @@
+echo "Luke Ken 3D Enhanced Edition" // Change the name of project or remove echo if don't need it.
+include art.def
+
