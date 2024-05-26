@@ -49,7 +49,7 @@ If you like to check on what source port was previously tested click [Here](docs
 
 ## Contributing
 
-New contributors are always welcome for Luke Ken 3D project, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game. 
+Project contributions is open. New contributors are always welcome for Luke Ken 3D project, however, there are certain guidelines that should be followed to ensure the project stays true to its goals of being a free content game. 
 Be sure to read our submission guidelines for [here](docs/GUIDELINES.md) to check out more information.
 
 **Submiting work**
