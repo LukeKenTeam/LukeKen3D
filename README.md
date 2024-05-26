@@ -90,7 +90,7 @@ Game Data Dependencies:
 
 Please review the respective licenses for more details.
 
-However, it's important to keep in mind that while Luke Ken 3D assets and project under a open source license, other data bundled in this project, might have different licensing constraints. For instance, the build engine data cannot be sold for commercial purposes without explicit consent from its creator, Ken Silverman. Which makes hard for us have added to GNU/Linux distributions. We kindly encourage you to thoroughly review the individual licenses of any extra data incorporated into this project before using or distributing it. Rest assured, there shouldn't be any complications as long as you're distributing it for free without any cost. The game will remain on the Luke Ken Team webpage for the time being until something will change. Hopefully, Ken Silverman can reason and understand about what we're doing when it comes to open source content. If there seems to be a misunderstanding with Build Engine related stuff or the license not necessary for that. Do please let us know. Thanks! 
+However, it's important to keep in mind that while Luke Ken 3D assets and project under a open source license, other data bundled in this project, might have different licensing constraints. For instance, the build engine data cannot be sold for commercial purposes without explicit consent from its creator, Ken Silverman. Which makes hard for us have added to GNU/Linux distributions. We kindly encourage you to thoroughly review the individual licenses of any extra data incorporated into this project before using or distributing it. Rest assured, there shouldn't be any complications as long as you're distributing it for free without any cost. The game will remain on the Luke Ken Team website for the time being, unless something changes. Hopefully, Ken Silverman can reason and understand what we're doing with open source content. Hopefully, Ken will one day open source his own build engine. If there seems to be a misunderstanding with Build Engine related stuff or the license not necessary for that. Do please let us know. Thanks! 
 
 ## What "Free" Means
 
@@ -101,6 +101,7 @@ You may read more about free software at the [GNU](http://www.gnu.org/) and [Fre
 ## Credit
 
 Luke Ken 3D Project is made up of submissions from many people all over the globe. All of them, and you, deserve credit! Please do not forget to provide your name and email/contact info when submitting resources.
+Also a special thanks goes out to Ken Silverman for creating the Build Engine. None of the games would be possible without him, including Luke Ken 3D itself.
 
 ## Community
 
